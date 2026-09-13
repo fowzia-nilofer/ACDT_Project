@@ -1,0 +1,19 @@
+BALANCED LSTM CLASSIFICATION REPORT
+============================================================
+
+                   precision    recall  f1-score   support
+
+  stable_learning     0.9397    0.7349    0.8248     49146
+moderate_struggle     0.3261    0.5880    0.4195      7652
+    high_struggle     0.0510    0.3546    0.0892       767
+
+         accuracy                         0.7103     57565
+        macro avg     0.4389    0.5592    0.4445     57565
+     weighted avg     0.8463    0.7103    0.7611     57565
+
+
+CONFUSION MATRIX
+============================================================
+[[36117  9003  4026]
+ [ 2117  4499  1036]
+ [  200   295   272]]

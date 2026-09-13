@@ -1,0 +1,19 @@
+ACDT PROJECT - LSTM CLASSIFICATION REPORT
+============================================================
+
+                   precision    recall  f1-score   support
+
+  stable_learning     0.8908    0.9837    0.9349     49146
+moderate_struggle     0.7002    0.3010    0.4210      7652
+    high_struggle     0.0000    0.0000    0.0000       767
+
+         accuracy                         0.8799     57565
+        macro avg     0.5303    0.4282    0.4520     57565
+     weighted avg     0.8536    0.8799    0.8542     57565
+
+
+CONFUSION MATRIX
+============================================================
+[[48347   799     0]
+ [ 5349  2303     0]
+ [  580   187     0]]

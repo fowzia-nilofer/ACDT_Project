@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+.env
+.env.*
+
+# Large datasets
+data/raw/
+*.csv
+
+# Python and notebook temporary files
+.pytest_cache/
+.mypy_cache/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
